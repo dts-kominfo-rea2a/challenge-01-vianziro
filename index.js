@@ -34,7 +34,7 @@ const firstUser = {
                 },
             ],
             favoriteRestaurant : [
-                "Bento", "Sushi", "Pancake", "Eggy", "Tempura", "Bento", "Eggy", "Padang", "Tteok", "Sushi", "Sushi"
+                "Bento", "Sushi", "Pancake", "Eggy", "Tempura", "Bento", "Eggy", "Padang", "Tteok"
             ]
 
 };
