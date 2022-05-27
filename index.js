@@ -41,18 +41,20 @@ const firstUser = {
 
 
 const secondUser = {
-            name: 'wendy',
+            name: 'Wendy',
             gender: "Male",
             age: 23,
             email: "wendy@dingdong.com",
             favoriteColor: [
-                "Blue","Black","Grey"
-                
+                "Blue",
+                "Black",
+                "Grey"
+
             ],
             isHavePet:  "No",
             education: [{
-                  name: 'SD 02', 
-                    city: 'Jakarta',
+                  name: "SD 02", 
+                    city: "Jakarta",
                  graduate: 2010
 
             },
@@ -63,13 +65,13 @@ const secondUser = {
 
             },
             {
-                name: 'SMA 01',
-                 city: 'Surabaya', 
+                name: "SMA 01",
+                 city: "Surabaya", 
                  graduate: 2016
             },
             {
-                name: 'Universitas Maju', 
-                city: 'Tangerang',
+                name: "Universitas Maju", 
+                city: "Tangerang"
             }
 
 
