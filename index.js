@@ -72,7 +72,7 @@ const secondUser = {
             },
            universitas: {
                 name: "Universitas Maju", 
-                city: "Tangerang"
+                city: "Tangerang",
                 graduate: null,
             }
 
