@@ -15,7 +15,7 @@ const firstUser = {
                             "White",
                             "Purple"
             ],
-            isHavePet : "true",
+            isHavePet : true,
             education : {
                 sd: {
                     name : "SD 01",
@@ -51,11 +51,11 @@ const secondUser = {
                 "Grey"
 
             ],
-            isHavePet:  "false",
+            isHavePet:  false,
             education: {
            sd:  {
                   name: "SD 02", 
-                    city: "Jakarta",
+                 city: "Jakarta",
                  graduate: 2010
 
             },
@@ -71,7 +71,7 @@ const secondUser = {
                  graduate: 2016
             },
            universitas: {
-                name: "Universitas Maju", 
+                name: "Universitas Maju",
                 city: "Tangerang",
                 graduate: null,
             }
@@ -81,8 +81,16 @@ const secondUser = {
 
         },
             favoriteRestaurant: [
-               "Tempura","Bento", "Sushi", "Pancake", "Padang", "Katsu", "Geprek", "Pancake", "Eggy"
-            ]
+               "Tempura",
+               "Bento",
+                "Sushi",
+                "Pancake",
+                "Padang",
+                "Katsu",
+                "Geprek",
+                "Pancake",
+                 "Eggy"
+            ],
 
 
 
