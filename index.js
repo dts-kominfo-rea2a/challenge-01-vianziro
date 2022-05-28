@@ -15,7 +15,7 @@ const firstUser = {
                             "White",
                             "Purple"
             ],
-            isHavePet : "Yes",
+            isHavePet : "true",
             education : [
                 {
                     name : "SD 01",
@@ -34,8 +34,7 @@ const firstUser = {
                 },
             ],
             favoriteRestaurant : [
-                "Bento", "Sushi", "Pancake", "Eggy", "Tempura", "Bento", "Eggy", "Padang", "Tteok"
-            ]
+                "Bento", "Sushi", "Pancake", "Eggy", "Tempura", "Bento", "Eggy", "Padang", "Tteok" ],
 
 };
 
@@ -51,7 +50,7 @@ const secondUser = {
                 "Grey"
 
             ],
-            isHavePet:  "No",
+            isHavePet:  "false",
             education: [{
                   name: "SD 02", 
                     city: "Jakarta",
